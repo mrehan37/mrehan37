@@ -26,43 +26,43 @@ I build clean, practical, and scalable web solutions focused on real-world needs
 ## <picture><img src="https://raw.githubusercontent.com/mrehan37/mrehan37/main/Images/code.gif" width="28px" alt="Code GIF" style="vertical-align: middle;" /></picture> <span style="vertical-align: middle;">Tech Stack by Category</span>
 
 <p><strong>Languages and Markup</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
+<p><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
 <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" />
 <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" />
 <img src="https://skillicons.dev/icons?i=md&theme=dark" alt="Markdown" title="Markdown" />
-<p></p>
+</p>
 
 <p><strong>Frontend and CMS</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
+<p><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
 <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" title="WordPress" />
-<p></p>
+</p>
 
 <p><strong>Backend and Database</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
+<p><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
 <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" />
 <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
-<p></p>
+</p>
 
 <p><strong>Cloud and DevOps</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" />
+<p><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" />
 <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" />
 <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="Tailscale" title="Tailscale" />
-<p></p>
+</p>
 
 <p><strong>Developer Tools</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
+<p><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
 <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
 <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" title="npm" />
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" />
-<p></p>
+</p>
 
 <p><strong>OS, Hardware, and Productivity</strong><br /></p>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" />
+<p><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" />
 <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows" />
 <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" />
 <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" title="Notion" />
-<p></p>
+</p>
 
 ---
 
