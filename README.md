@@ -25,50 +25,38 @@ I build clean, practical, and scalable web solutions focused on real-world needs
 
 ## <picture><img src="https://raw.githubusercontent.com/mrehan37/mrehan37/main/Images/code.gif" width="28px" alt="Code GIF" style="vertical-align: middle;" /></picture> <span style="vertical-align: middle;">Tech Stack by Category</span>
 
-### Languages and Markup
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=md&theme=dark" alt="Markdown" title="Markdown" />
-</p>
-
-### Frontend and CMS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" title="WordPress" />
-</p>
-
-### Backend and Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
-### Cloud and DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="Tailscale" title="Tailscale" />
-</p>
-
-### Developer Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" title="npm" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" />
-</p>
-
-### OS, Hardware, and Productivity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" />
-  <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" title="Notion" />
-</p>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 0 24px 14px 0;">
+      <strong>Languages and Markup</strong><br />
+      <img src="https://skillicons.dev/icons?i=js,html,css,md&theme=dark" alt="JavaScript, HTML5, CSS3, Markdown" title="JavaScript, HTML5, CSS3, Markdown" />
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 0 0 14px 0;">
+      <strong>Frontend and CMS</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,wordpress&theme=dark" alt="React, WordPress" title="React, WordPress" />
+    </td>
+  </tr>
+  <tr style="border: none; background: #1e1e1e00;">
+    <td width="50%" valign="top" style="border: none; padding: 0 24px 14px 0;">
+      <strong>Backend and Database</strong><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql&theme=dark" alt="Node.js, Express.js, PostgreSQL" title="Node.js, Express.js, PostgreSQL" />
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 0 0 14px 0;">
+      <strong>Cloud and DevOps</strong><br />
+      <img src="https://skillicons.dev/icons?i=aws,githubactions,ros&theme=dark" alt="AWS, GitHub Actions, Tailscale" title="AWS, GitHub Actions, Tailscale" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 0 24px 0 0;">
+      <strong>Developer Tools</strong><br />
+      <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode&theme=dark" alt="Git, GitHub, npm, Postman, VS Code" title="Git, GitHub, npm, Postman, VS Code" />
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 0;">
+      <strong>OS, Hardware, and Productivity</strong><br />
+      <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi,notion&theme=dark" alt="Linux, Windows, Raspberry Pi, Notion" title="Linux, Windows, Raspberry Pi, Notion" />
+    </td>
+  </tr>
+</table>
 
 ---
 
