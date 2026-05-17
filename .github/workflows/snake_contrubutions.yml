@@ -19,6 +19,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: setup node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
