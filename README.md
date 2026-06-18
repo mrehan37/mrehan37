@@ -4,7 +4,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
   </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;JavaScript+%7C+React+%7C+Node.js+Developer;Building+Web+Apps%2C+APIs+and+Automation;Exploring+Python+and+AI+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;WordPress+%26+WooCommerce+Developer;Elementor+%7C+React+%7C+Node.js+%7C+AWS;Building+E-Commerce%2C+APIs+and+Cloud+Solutions;" alt="Typing SVG" />
+
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mrehan37&label=Profile%20views&color=0e75b6&style=flat" alt="mrehan37" />
