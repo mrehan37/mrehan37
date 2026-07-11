@@ -42,6 +42,7 @@ I build clean, practical, and scalable web solutions focused on real-world needs
 <p><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
 <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" />
 <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" title="Prisma" />
 </p>
 
 <p><strong>Cloud and DevOps</strong><br /></p>
